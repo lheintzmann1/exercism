@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mrrobot/exercism/cpp/vehicle-purchase/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

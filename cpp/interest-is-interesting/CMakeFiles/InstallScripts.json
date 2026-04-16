@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mrrobot/exercism/cpp/interest-is-interesting/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
